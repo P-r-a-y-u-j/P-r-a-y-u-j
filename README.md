@@ -1,7 +1,8 @@
 ### Hi there 👋
+We are a group of tech students with a entrepreneur mindset ✨ 
 
 <!--
-**P-r-a-y-u-j/P-r-a-y-u-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**P-r-a-y-u-j/P-r-a-y-u-j** is a ✨ _special_ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
