@@ -1,6 +1,19 @@
-### Hi there 👋
-We are a group of tech students with a entrepreneur mindset ✨ 
+# PRAYUJ 
+## Good design matters
 
+### 🤔 Who we are
+        We are  a group of friends who loves to code,design and build and contribute to the society
+### 🔭 What we do
+        - Branding
+        - Website development
+        - User Experience Design
+      
+### 😄 How to connect with us 
+          [LINKEDIN](https://www.linkedin.com/company/prayujdesigns)\
+          [EMAIL](prayuj6@gmail.com)\
+         
+          
+    
 <!--
 **P-r-a-y-u-j/P-r-a-y-u-j** is a ✨ _special_ repository because its `README.md` (this file) appears on your GitHub profile.
 
