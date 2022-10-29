@@ -9,8 +9,7 @@
         - User Experience Design
       
 ### 😄 How to connect with us 
-          [LINKEDIN](https://www.linkedin.com/company/prayujdesigns)\
-          [EMAIL](prayuj6@gmail.com)\
+        EMAIL US @ prayuj6@gmail.com
          
           
     
